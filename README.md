@@ -2,7 +2,7 @@
 
 Official downloads and updates, maintained by MHSRandunu.
 
-The download website is being published. Installers will appear on the Releases page when the release is ready.
+Download Lawyer Diary from **https://lawyer-diary-app-lk.web.app**. The latest stable Windows installer is available on the website and this repository’s Releases page.
 
 # Lawyer Diary 2.1.0
 
